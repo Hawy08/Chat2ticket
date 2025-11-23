@@ -1,0 +1,5 @@
+{
+  "name": "EventPulse - IBM Orchestrate Hackathon",
+  "description": "A landing page for the EventPulse AI WhatsApp bot, featuring event discovery, Stripe payments, and calendar integrations.",
+  "requestFramePermissions": []
+}
